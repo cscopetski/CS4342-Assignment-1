@@ -1,1 +1,1 @@
-# CS4342-Assignment-1
+# CS4342-Assignments
